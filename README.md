@@ -32,5 +32,7 @@ Let’s connect if you’re building in AI, dev tooling, or just love great soft
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-opere-14b5a5203/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/opere_brandon)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teambits009)
+[![Gmail](https://img.shields.io/badge/Email-brandonopere6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonopere6@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-brandon@techopssapex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon@techopssapex.com)
 
 
