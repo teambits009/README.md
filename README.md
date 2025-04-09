@@ -38,3 +38,6 @@ Let’s connect if you’re building in AI, dev tooling, or just love great soft
 
 ### Product Designs
 [![Figma](https://img.shields.io/badge/Figma-Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1482020214592213485/project/351738033/Team-project?fuid=1405145540238941784)
+
+### Technical Writing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/7081154412504580096/)
