@@ -1,4 +1,4 @@
-Hi👋, 
+Hi there! 👋🙂
 
 I'm Brandon Opere!
 
@@ -13,3 +13,22 @@ In my DevRel and technical instructing roles, I create tutorials, live demos, do
 I'm also deeply involved in open-source, contributing to and maintaining projects that simplify complex workflows for engineers. Whether it’s speaking at events, mentoring devs, or writing technical content, my goal is always the same: to build useful things and help others do the same—faster and better.
 
 Let’s connect if you’re building in AI, dev tooling, or just love great software.
+
+### Technologies I Use
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+### Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-opere-14b5a5203/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/opere_brandon)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teambits009)
+
+
