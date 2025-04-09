@@ -1,20 +1,62 @@
-Hi there! 👋🙂
+# 👋 Hi there, I’m Brandon Opere!
 
-I'm Brandon Opere!
+### 🛠️ Founder & DevRel at TechOps Apex  
+*Software & Product Engineer | AI Developer Advocate | DevTools Evangelist*
 
-The Founder and DevRel at TechOps Apex, where I combine hands-on product engineering with technical education and community building. I’m passionate about building tools, sharing knowledge, and helping developers unlock the full potential of modern technologies—especially in the fast-moving world of AI.
+---
 
-At the core of my work is a deep focus on AI developer tools. I actively work with platforms like OpenAI, Hugging Face, LangChain, Pinecone, and other cutting-edge frameworks in the AI/ML space. Whether it’s integrating LLMs into real-world products, fine-tuning models for performance, or building intuitive dev-facing APIs—I’m all about making AI more accessible and usable for developers.
+## 👨‍💻 About Me
 
-As a Software & Product Engineer, I work across the stack to design and build scalable solutions using technologies like Figma, TypeScript, Python, Node.js, React, and Next.js, along with cloud services like Vercel, Firebase, and AWS. I approach product development with a strong focus on developer & user experience, performance, and impact.
+I'm Brandon — a passionate product engineer and AI advocate, building tools that help developers unlock the full power of modern technologies. As **Founder and DevRel at TechOps Apex**, I blend hands-on product development with developer education, technical writing, and community engagement.
 
-In my DevRel and technical instructing roles, I create tutorials, live demos, docs, and developer guides—often centered around AI, open-source, and dev productivity. I’ve taught concepts ranging from prompt engineering to model deployment, helping developers go from zero to production with modern AI tools.
+At the heart of my work lies a strong focus on **AI developer tools**. I’ve worked extensively with platforms like:
 
-I'm also deeply involved in open-source, contributing to and maintaining projects that simplify complex workflows for engineers. Whether it’s speaking at events, mentoring devs, or writing technical content, my goal is always the same: to build useful things and help others do the same—faster and better.
+- 🧠 **OpenAI**
+- 🤗 **Hugging Face**
+- 🔗 **LangChain**
+- 🌲 **Pinecone**
+- 🧪 **TensorFlow**, **PyTorch**, and **Scikit-learn**
 
-Let’s connect if you’re building in AI, dev tooling, or just love great software.
+Whether it’s integrating LLMs, deploying ML models, or building dev-facing APIs—my mission is to make AI **usable**, **scalable**, and **accessible** for all developers.
 
-### Technologies I Use
+---
+
+## 🧩 What I Do
+
+- 🔧 Full-stack product development (frontend + backend)
+- 📦 Building dev tools and SDKs
+- 🧠 AI/ML integration (RAG, LLMs, embeddings)
+- 📣 Developer Relations and technical content
+- 🧪 OSS contributions and community mentorship
+
+---
+
+## 💻 Tech Stack
+
+| Area             | Tools & Frameworks |
+|------------------|--------------------|
+| Languages        | TypeScript, Python, JavaScript |
+| Frontend         | React, Next.js, Figma |
+| Backend          | Node.js, Django, FastAPI |
+| Infrastructure   | Firebase, Vercel, AWS |
+| Dev Tools        | GitHub, Postman, VSCode |
+
+---
+
+## 🧠 AI Tools I Work With
+
+![OpenAI](https://img.shields.io/badge/OpenAI-Logo-blue)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Logo-yellow)
+![LangChain](https://img.shields.io/badge/LangChain-Logo-green)
+![Pinecone](https://img.shields.io/badge/Pinecone-Logo-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Logo-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-Logo-red)
+![Keras](https://img.shields.io/badge/Keras-Logo-red)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Logo-lightblue)
+
+---
+
+## 🧪 Tech Tools I Love
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,29 +68,43 @@ Let’s connect if you’re building in AI, dev tooling, or just love great soft
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-### AI Tools That I Use
+## 🧠 Technical Content & Teaching
 
-- [![OpenAI](https://img.shields.io/badge/OpenAI-Logo-blue)](https://openai.com/)
-- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Logo-yellow)](https://huggingface.co/)
-- [![LangChain](https://img.shields.io/badge/LangChain-Logo-green)](https://www.langchain.com/)
-- [![Pinecone](https://img.shields.io/badge/Pinecone-Logo-orange)](https://www.pinecone.io/)
-- [![TensorFlow](https://img.shields.io/badge/TensorFlow-Logo-orange)](https://www.tensorflow.org/)
-- [![PyTorch](https://img.shields.io/badge/PyTorch-Logo-red)](https://pytorch.org/)
-- [![Keras](https://img.shields.io/badge/Keras-Logo-red)](https://keras.io/)
-- [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Logo-lightblue)](https://scikit-learn.org/)
+I regularly create:
 
+- 🎓 Tutorials and live coding sessions
+- 📘 Developer guides and documentation
+- 🧵 Threads and technical writing
+- 📢 Talks and workshops on AI, DevOps, and tooling
 
-### Let's connect!
+Check out my newsletter on [LinkedIn](https://www.linkedin.com/newsletters/7081154412504580096/) for deep dives into prompt engineering, RAG pipelines, LLM optimization, and more.
+
+---
+
+## ✨ Featured Work
+
+### 🎨 Product Designs  
+[![Figma](https://img.shields.io/badge/Figma-Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1482020214592213485/project/351738033/Team-project?fuid=1405145540238941784)
+
+### 📰 Technical Papers & Articles  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/7081154412504580096/)
+
+---
+
+## 🤝 Let’s Connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-opere-14b5a5203/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/opere_brandon)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teambits009)
-[![Gmail](https://img.shields.io/badge/Email-brandonopere6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonopere6@gmail.com)
-[![Gmail](https://img.shields.io/badge/Email-brandon@techopssapex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon@techopssapex.com)
+[![Email 1](https://img.shields.io/badge/Email-brandonopere6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonopere6@gmail.com)
+[![Email 2](https://img.shields.io/badge/Email-brandon@techopssapex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon@techopssapex.com)
 
+---
 
-### Product Designs
-[![Figma](https://img.shields.io/badge/Figma-Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1482020214592213485/project/351738033/Team-project?fuid=1405145540238941784)
+## 💬 Let’s build together.
 
-### Technical Papers
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Newsletter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/7081154412504580096/)
+Whether you're building in AI, dev tooling, or just love crafting great software — feel free to reach out. I'm always open to collaborations, open-source projects, and sharing ideas.
+
+---
