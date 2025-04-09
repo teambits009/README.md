@@ -36,3 +36,5 @@ Let’s connect if you’re building in AI, dev tooling, or just love great soft
 [![Gmail](https://img.shields.io/badge/Email-brandon@techopssapex.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandon@techopssapex.com)
 
 
+### Product Designs
+[![Figma](https://img.shields.io/badge/Figma-Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1482020214592213485/project/351738033/Team-project?fuid=1405145540238941784)
