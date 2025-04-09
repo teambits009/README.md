@@ -27,6 +27,17 @@ Let’s connect if you’re building in AI, dev tooling, or just love great soft
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+### AI Tools That I Use
+
+- [![OpenAI](https://img.shields.io/badge/OpenAI-Logo-blue)](https://openai.com/)
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Logo-yellow)](https://huggingface.co/)
+- [![LangChain](https://img.shields.io/badge/LangChain-Logo-green)](https://www.langchain.com/)
+- [![Pinecone](https://img.shields.io/badge/Pinecone-Logo-orange)](https://www.pinecone.io/)
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-Logo-orange)](https://www.tensorflow.org/)
+- [![PyTorch](https://img.shields.io/badge/PyTorch-Logo-red)](https://pytorch.org/)
+- [![Keras](https://img.shields.io/badge/Keras-Logo-red)](https://keras.io/)
+- [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Logo-lightblue)](https://scikit-learn.org/)
+
 
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-opere-14b5a5203/)
