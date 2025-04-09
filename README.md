@@ -2,7 +2,7 @@ Hi there! 👋🙂
 
 I'm Brandon Opere!
 
-I’m the Founder and DevRel at TechOps Apex, where I combine hands-on product engineering with technical education and community building. I’m passionate about building tools, sharing knowledge, and helping developers unlock the full potential of modern technologies—especially in the fast-moving world of AI.
+The Founder and DevRel at TechOps Apex, where I combine hands-on product engineering with technical education and community building. I’m passionate about building tools, sharing knowledge, and helping developers unlock the full potential of modern technologies—especially in the fast-moving world of AI.
 
 At the core of my work is a deep focus on AI developer tools. I actively work with platforms like OpenAI, Hugging Face, LangChain, Pinecone, and other cutting-edge frameworks in the AI/ML space. Whether it’s integrating LLMs into real-world products, fine-tuning models for performance, or building intuitive dev-facing APIs—I’m all about making AI more accessible and usable for developers.
 
