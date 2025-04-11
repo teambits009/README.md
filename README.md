@@ -33,13 +33,13 @@ Whether it’s integrating LLMs, deploying ML models, or building dev-facing API
 
 ## 💻 Tech Stack
 
-| Area             | Tools & Frameworks |
+| Area             | Tools & Frameworks |                     
 |------------------|--------------------|
-| Languages        | TypeScript, Python, JavaScript |
-| Frontend         | React, Next.js, Figma |
+| Languages        | TypeScript, Python, JavaScript |          
+| Frontend         | React, Next.js, Figma |                   
 | Backend          | Node.js, Django, FastAPI |
 | Infrastructure   | Firebase, Vercel, AWS |
-| Dev Tools        | GitHub, Postman, VSCode |
+| Dev Tools        | GitHub, Postman, VSCode | 
 
 ---
 
