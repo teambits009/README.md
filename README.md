@@ -59,7 +59,7 @@ A glimpse into my typical dev-focused day — balancing deep work, community, an
 | 5:00 PM - 6:00 PM   | 📣 Content Creation (Tutorials, Threads)   | Figma · VSCode · X · LinkedIn Newsletter                  |
 | 7:00 PM - 9:00 PM   | 🚀 Open Source + Community Building        | GitHub · Polywork · Slack Communities · Indie Hackers     |
 
-| Deep Work (Coding/Architecture) | Product Design (Figma) | Technical Writing |
+| Deep Work (Coding/Architecture) | Product Design (Figma) | Technical Writing | Deep Intense Research | 
 
 
 ---
