@@ -33,13 +33,32 @@ Whether it’s integrating LLMs, deploying ML models, or building dev-facing API
 
 ## 💻 Tech Stack
 
-| Area             | Tools & Frameworks |                     
+| Area             | Tools & Frameworks |                                                         
 |------------------|--------------------|
 | Languages        | TypeScript, Python, JavaScript |          
 | Frontend         | React, Next.js, Figma |                   
 | Backend          | Node.js, Django, FastAPI |
 | Infrastructure   | Firebase, Vercel, AWS |
-| Dev Tools        | GitHub, Postman, VSCode | 
+| Dev Tools        | GitHub, Postman, VSCode |
+
+---
+
+## 🧘‍♂️ Tech Routine
+
+A glimpse into my typical dev-focused day — balancing deep work, community, and content.
+
+| 🕒 Time              | 🔧 Activity                               | 🛠️ Tools/Platforms Used                                  |
+|---------------------|-------------------------------------------|-----------------------------------------------------------|
+| 7:00 AM - 8:00 AM   | ☕ Morning Planning + Dev News Catch-up    | Feedly · Twitter Dev · Hacker News                        |
+| 8:00 AM - 10:00 AM  | 🧱 Deep Work (Coding / Architecture)       | VSCode · GitHub · Figma · Notion                          |
+| 10:00 AM - 11:00 AM | 💬 Community Engagement & DevRel Tasks     | X (Twitter) · Discord · LinkedIn · Dev.to                 |
+| 11:00 AM - 1:00 PM  | 🛠️ Feature Development / AI Integration    | OpenAI · LangChain · Firebase · Next.js                   |
+| 1:00 PM - 2:00 PM   | 🥗 Lunch + Mindful Break                   | Walks · Podcasts (Lex Fridman, Changelog, DevChat)        |
+| 2:00 PM - 4:00 PM   | 📄 Technical Writing / Docs / Demos        | Notion · GitBook · Markdown · Loom                        |
+| 4:00 PM - 5:00 PM   | 🧪 Testing & Deployment                    | Vercel · Postman · Swagger · GitHub Actions               |
+| 5:00 PM - 6:00 PM   | 📣 Content Creation (Tutorials, Threads)   | Figma · VSCode · X · LinkedIn Newsletter                  |
+| 7:00 PM - 9:00 PM   | 🚀 Open Source + Community Building        | GitHub · Polywork · Slack Communities · Indie Hackers     |
+
 
 ---
 
