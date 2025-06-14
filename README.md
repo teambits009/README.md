@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Mr. Teambits!
+# 👋 Hi there, I’m !Brandon Opere!
 
 ### 🛠️ Founder & DevRel at TechOps Apex  
 *Software & Product Engineer | AI Developer Advocate | DevTools Evangelist*
